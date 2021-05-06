@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: JN966MX
+Build-Jdk: 15.0.2
+Implementation-Title: springboot-oauth
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: springboot-oauth
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/springboot-oauth
+Created-By: Maven Integration for Eclipse
+
